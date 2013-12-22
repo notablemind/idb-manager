@@ -1,0 +1,17 @@
+{
+  "name": "idb-manager",
+  "repo": "notablemind/idb-manager",
+  "description": "A note manager using indexeddb",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "jaredly/bongo.js": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ],
+  "remotes": []
+}
