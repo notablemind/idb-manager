@@ -5,7 +5,9 @@
   "version": "0.0.1",
   "keywords": [],
   "dependencies": {
-    "jaredly/bongo.js": "*"
+    "jaredly/bongo.js": "*",
+    "notablemind/manager": "*",
+    "lodash/lodash": "*"
   },
   "development": {},
   "license": "MIT",
